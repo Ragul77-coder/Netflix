@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8d5e2"/>
+      <stop offset="100%" stop-color="#d0e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#sky)"/>
+  <polygon points="60,225 140,80 220,225" fill="#c8dce8" opacity="0.7"/>
+  <polygon points="150,225 250,50 350,225" fill="#dce8f0" opacity="0.8"/>
+  <polygon points="250,225 330,90 400,225" fill="#b8ccd8" opacity="0.6"/>
+  <polygon points="150,225 250,50 260,60 170,225" fill="white" opacity="0.4"/>
+  <polygon points="60,225 140,80 148,90 75,225" fill="white" opacity="0.35"/>
+  <circle cx="1" cy="30" r="1" fill="white" opacity="0.6"/>
+  <circle cx="50" cy="20" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="120" cy="40" r="1" fill="white" opacity="0.5"/>
+  <circle cx="300" cy="25" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="370" cy="15" r="1" fill="white" opacity="0.5"/>
+  <rect x="0" y="155" width="400" height="70" fill="#2a4a5a" opacity="0.5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="white" opacity="0.95" letter-spacing="5">FROST PEAK</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a0b45"/>
+      <stop offset="100%" stop-color="#0a1738"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#d)"/>
+  <rect x="140" y="180" width="300" height="260" rx="16" fill="#ffffff" opacity="0.12"/>
+  <rect x="500" y="220" width="620" height="42" rx="10" fill="#ff7b11" opacity="0.9"/>
+  <rect x="500" y="290" width="480" height="36" rx="10" fill="#ffffff" opacity="0.24"/>
+  <rect x="500" y="346" width="380" height="36" rx="10" fill="#ffffff" opacity="0.2"/>
+  <text x="500" y="510" fill="#ffb067" font-size="86" font-family="Arial, sans-serif" letter-spacing="4">CREATOR STUDIO</text>
+</svg>

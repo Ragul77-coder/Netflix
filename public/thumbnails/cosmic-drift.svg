@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <radialGradient id="nebula" cx="0.3" cy="0.4" r="0.6">
+      <stop offset="0%" stop-color="#6a2fa0" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0a0020" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="225" fill="#08001a"/>
+  <rect width="400" height="225" fill="url(#nebula)"/>
+  <!-- Stars -->
+  <circle cx="30" cy="20" r="1" fill="white" opacity="0.7"/>
+  <circle cx="80" cy="50" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="150" cy="30" r="1" fill="white" opacity="0.8"/>
+  <circle cx="220" cy="15" r="1.2" fill="white" opacity="0.6"/>
+  <circle cx="300" cy="40" r="1" fill="white" opacity="0.7"/>
+  <circle cx="370" cy="20" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="50" cy="90" r="1" fill="white" opacity="0.6"/>
+  <circle cx="180" cy="70" r="1.5" fill="#ccaaff" opacity="0.5"/>
+  <circle cx="260" cy="85" r="1" fill="white" opacity="0.7"/>
+  <circle cx="340" cy="60" r="1" fill="white" opacity="0.5"/>
+  <circle cx="120" cy="120" r="1.2" fill="white" opacity="0.4"/>
+  <circle cx="310" cy="110" r="1" fill="#ccaaff" opacity="0.5"/>
+  <circle cx="40" cy="150" r="1" fill="white" opacity="0.5"/>
+  <circle cx="380" cy="130" r="1.5" fill="white" opacity="0.4"/>
+  <!-- Nebula cloud -->
+  <ellipse cx="140" cy="90" rx="80" ry="40" fill="#5020a0" opacity="0.15"/>
+  <ellipse cx="160" cy="85" rx="50" ry="25" fill="#8040c0" opacity="0.1"/>
+  <rect x="0" y="155" width="400" height="70" fill="black" opacity="0.45"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#c090ff" opacity="0.9" letter-spacing="4">COSMIC DRIFT</text>
+</svg>

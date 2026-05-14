@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d4a050"/>
+      <stop offset="100%" stop-color="#6b4226"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#bg)"/>
+  <circle cx="320" cy="50" r="30" fill="#f0c040" opacity="0.7"/>
+  <!-- Trees -->
+  <rect x="55" y="100" width="6" height="60" fill="#3a2a10"/>
+  <ellipse cx="58" cy="85" rx="20" ry="30" fill="#2d5a1e" opacity="0.8"/>
+  <rect x="155" y="90" width="5" height="70" fill="#3a2a10"/>
+  <ellipse cx="157" cy="75" rx="18" ry="28" fill="#3a6a20" opacity="0.75"/>
+  <rect x="340" y="105" width="5" height="55" fill="#3a2a10"/>
+  <ellipse cx="342" cy="90" rx="16" ry="25" fill="#2d5a1e" opacity="0.7"/>
+  <!-- Ground -->
+  <rect x="0" y="160" width="400" height="65" fill="#5a3a18" opacity="0.6"/>
+  <rect x="0" y="155" width="400" height="70" fill="black" opacity="0.4"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#f0d090" opacity="0.95" letter-spacing="4">WILD SAFARI</text>
+</svg>

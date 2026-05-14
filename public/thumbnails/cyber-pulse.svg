@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <rect width="400" height="225" fill="#0a0a0a"/>
+  <line x1="50" y1="0" x2="50" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="100" y1="0" x2="100" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="150" y1="0" x2="150" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="200" y1="0" x2="200" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="250" y1="0" x2="250" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="300" y1="0" x2="300" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <line x1="350" y1="0" x2="350" y2="225" stroke="#00ff88" stroke-width="0.5" opacity="0.2"/>
+  <path d="M50,60 H100 V40 H150 V80 H200 V50 H250" stroke="#00ffcc" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M100,140 H150 V120 H200 V160 H250 V130 H300 V150 H350" stroke="#00ff88" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle cx="100" cy="60" r="3" fill="#00ffcc" opacity="0.8"/>
+  <circle cx="200" cy="50" r="3" fill="#00ffcc" opacity="0.8"/>
+  <circle cx="250" cy="130" r="3" fill="#00ff88" opacity="0.8"/>
+  <circle cx="350" cy="150" r="3" fill="#00ff88" opacity="0.8"/>
+  <rect x="0" y="155" width="400" height="70" fill="black" opacity="0.5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="monospace" font-size="30" font-weight="bold" fill="#00ffaa" opacity="0.9" letter-spacing="4">CYBER PULSE</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#0b1d2d"/>
+  <rect x="80" y="280" width="130" height="280" fill="#1b6ca8"/>
+  <rect x="250" y="210" width="180" height="350" fill="#145374"/>
+  <rect x="470" y="140" width="150" height="420" fill="#5588a3"/>
+  <rect x="650" y="240" width="130" height="320" fill="#1b6ca8"/>
+  <rect x="820" y="170" width="200" height="390" fill="#145374"/>
+  <text x="80" y="640" fill="#95f0ff" font-size="94" font-family="Arial, sans-serif" letter-spacing="5">NEON CITY</text>
+</svg>

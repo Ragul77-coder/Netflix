@@ -1,0 +1,7 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#111"/>
+  <polygon points="0,720 420,200 540,200 180,720" fill="#e50914" opacity="0.9"/>
+  <polygon points="240,720 700,160 820,160 420,720" fill="#ff7b11" opacity="0.85"/>
+  <polygon points="520,720 980,140 1100,140 700,720" fill="#f3ca40" opacity="0.82"/>
+  <text x="70" y="650" fill="#fff5d7" font-size="84" font-family="Arial, sans-serif" letter-spacing="4">VELOCITY LANE</text>
+</svg>

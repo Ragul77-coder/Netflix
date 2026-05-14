@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5a623"/>
+      <stop offset="60%" stop-color="#d4771a"/>
+      <stop offset="100%" stop-color="#8b3a0f"/>
+    </linearGradient>
+    <linearGradient id="ray" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe066" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffe066" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#bg)"/>
+  <circle cx="200" cy="180" r="60" fill="#ffe066" opacity="0.6"/>
+  <circle cx="200" cy="180" r="40" fill="#fff5cc" opacity="0.4"/>
+  <polygon points="200,120 210,180 190,180" fill="url(#ray)" opacity="0.5"/>
+  <polygon points="200,120 240,170 190,180" fill="url(#ray)" opacity="0.3"/>
+  <polygon points="200,120 160,170 210,180" fill="url(#ray)" opacity="0.3"/>
+  <polygon points="200,120 270,160 220,180" fill="url(#ray)" opacity="0.2"/>
+  <polygon points="200,120 130,160 180,180" fill="url(#ray)" opacity="0.2"/>
+  <rect x="0" y="150" width="400" height="75" fill="#8b3a0f" opacity="0.5"/>
+  <text x="200" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#fff5e0" opacity="0.95" letter-spacing="4">GOLDEN HOUR</text>
+</svg>

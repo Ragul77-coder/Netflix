@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#2a2a3e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#bg)"/>
+  <!-- Storm clouds -->
+  <ellipse cx="100" cy="30" rx="80" ry="30" fill="#2a2a40" opacity="0.8"/>
+  <ellipse cx="250" cy="25" rx="100" ry="35" fill="#333350" opacity="0.7"/>
+  <ellipse cx="370" cy="35" rx="60" ry="25" fill="#2a2a40" opacity="0.6"/>
+  <!-- Lightning bolts -->
+  <polygon points="180,40 165,100 185,100 160,160" fill="none" stroke="#ffe030" stroke-width="3" opacity="0.9"/>
+  <polygon points="280,30 265,80 280,80 260,130" fill="none" stroke="#ffe030" stroke-width="2.5" opacity="0.7"/>
+  <polygon points="120,50 110,85 125,85 108,120" fill="none" stroke="#ffdd00" stroke-width="2" opacity="0.5"/>
+  <!-- Glow -->
+  <ellipse cx="170" cy="100" rx="30" ry="20" fill="#ffe030" opacity="0.08"/>
+  <ellipse cx="270" cy="80" rx="25" ry="15" fill="#ffe030" opacity="0.06"/>
+  <rect x="0" y="155" width="400" height="70" fill="black" opacity="0.5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#ffe040" opacity="0.95" letter-spacing="4">THUNDER BOLT</text>
+</svg>

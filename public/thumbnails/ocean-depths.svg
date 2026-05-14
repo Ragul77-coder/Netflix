@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a4a5a"/>
+      <stop offset="100%" stop-color="#042030"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="225" fill="url(#bg)"/>
+  <path d="M0,80 Q50,60 100,80 T200,80 T300,80 T400,80 V225 H0Z" fill="#0a6a7a" opacity="0.4"/>
+  <path d="M0,110 Q60,90 120,110 T240,110 T360,110 L400,110 V225 H0Z" fill="#087878" opacity="0.35"/>
+  <path d="M0,140 Q70,120 140,140 T280,140 T400,140 V225 H0Z" fill="#066060" opacity="0.4"/>
+  <path d="M0,170 Q80,155 160,170 T320,170 T400,170 V225 H0Z" fill="#044a4a" opacity="0.5"/>
+  <circle cx="80" cy="180" r="4" fill="#40e0d0" opacity="0.3"/>
+  <circle cx="200" cy="160" r="3" fill="#40e0d0" opacity="0.25"/>
+  <circle cx="300" cy="190" r="5" fill="#40e0d0" opacity="0.2"/>
+  <circle cx="150" cy="200" r="3" fill="#40e0d0" opacity="0.2"/>
+  <rect x="0" y="150" width="400" height="75" fill="black" opacity="0.35"/>
+  <text x="200" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#a0f0f0" opacity="0.9" letter-spacing="4">OCEAN DEPTHS</text>
+</svg>
